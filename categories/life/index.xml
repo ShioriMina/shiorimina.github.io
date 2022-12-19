@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Life on ShioriMina</title><link>https://shiorimina.github.io/categories/life/</link><description>Recent content in Life on ShioriMina</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><lastBuildDate>Fri, 16 Dec 2022 09:17:13 +0000</lastBuildDate><atom:link href="https://shiorimina.github.io/categories/life/index.xml" rel="self" type="application/rss+xml"/><item><title>Powerbook G4 Titanium上手体验</title><link>https://shiorimina.github.io/p/powerbook-first-look/</link><pubDate>Fri, 16 Dec 2022 09:17:13 +0000</pubDate><guid>https://shiorimina.github.io/p/powerbook-first-look/</guid><description>&lt;img src="https://shiorimina.github.io/p/powerbook-first-look/macos9.jpg" alt="Featured image of post Powerbook G4 Titanium上手体验" />&lt;p>一直想拥有一台ppc构架的计算机，但是一直没有真的买下来过&lt;br>
+虽然中间曾多次&lt;del>漫步海鲜市场&lt;/del>，但也只是浏览&lt;/p>
+&lt;p>n天前我结识了一只收藏古董硬件的小可爱，经过一番友好的交流，得知他有一台橙色尚可的Powerbook, 遂立刻买入&lt;/p>
+&lt;p>这台PowerbookG4拥有667Mhz的IBM PowerPC构架中央处理器，ATI Mobility显示卡，512MB DDR，80GB HDD，另外还配备了Airport Card&lt;br>
+(在当时WLAN还是没有推广开的先进技术，属于选配部件&lt;/p>
+&lt;p>如果把它和发布时间只相差一年的PowerbookG3放在一起，难以相信这是同一个时代的产品&lt;/p>
+&lt;p>令我惊讶的是2001年出厂的它，历经21年的岁月洗礼，它所配备的锂电池居然还能有2hr的续航时间，没有死掉。&lt;br>
+屏幕上面只有一条划痕， 钛合金的外壳也只有浅浅的几道痕迹&lt;br>
+它的上一任主人一定也是比较爱惜它吧。。。&lt;/p>
+&lt;p>它的脸大概是酱紫的
+&lt;img src="https://shiorimina.github.io/p/powerbook-first-look/front.jpg"
+width="1512"
+height="1134"
+srcset="https://shiorimina.github.io/p/powerbook-first-look/front_hu94483b5a843984f44bb3ea83895a86c8_283994_480x0_resize_q75_box.jpg 480w, https://shiorimina.github.io/p/powerbook-first-look/front_hu94483b5a843984f44bb3ea83895a86c8_283994_1024x0_resize_q75_box.jpg 1024w"
+loading="lazy"
+alt="front"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
+>&lt;/p>
+&lt;p>我第一眼注意到的是它的边框&lt;br>
+即使是以现在的标准来评判，这样的边框也能称得上窄(后面的铝合金G4还要更窄一些)&lt;br>
+这在当时的笔记型计算机市场一定能惊艳到很多人&lt;/p>
+&lt;p>半透明的键盘非常有感觉，看起来很漂亮。键程是那个年代的笔记本的标准长度，敲起来有些老ThinkPad的感觉&lt;br>
+按键上面的刻字是倾斜的，是水果的独特味道？&lt;/p>
+&lt;p>屏幕的转轴是某种塑料材质。。而且是使用螺钉固定在背部的，长时间使用之后很容易发生断裂。。&lt;br>
+上一任主人也特别提醒我打开盖子的时候动作要轻轻的&lt;/p>
+&lt;p>我觉得Powerbook G4的可维护性做的很好， 如果你想要清理灰尘或者添加记忆体的话，在键盘正面就能直接完成
+&lt;img src="https://shiorimina.github.io/p/powerbook-first-look/keyboard.jpg"
+width="4096"
+height="2731"
+srcset="https://shiorimina.github.io/p/powerbook-first-look/keyboard_huba85c7e9456fbcef47287f2aea54df2b_1754866_480x0_resize_q75_box.jpg 480w, https://shiorimina.github.io/p/powerbook-first-look/keyboard_huba85c7e9456fbcef47287f2aea54df2b_1754866_1024x0_resize_q75_box.jpg 1024w"
+loading="lazy"
+alt="keyboard"
+class="gallery-image"
+data-flex-grow="149"
+data-flex-basis="359px"
+>
+只需要把键盘最上面的旋钮转180度，再扣住键盘两边的卡扣就可以把键盘拿下来。&lt;/p>
+&lt;p>值得一提的是键盘背面有磁铁用来让键盘平铺在金属框架上面的时候保持平整&lt;/p>
+&lt;p>拧下背面的所有六角螺丝就可以取下底壳
+&lt;img src="https://shiorimina.github.io/p/powerbook-first-look/back.jpg"
+width="2436"
+height="1827"
+srcset="https://shiorimina.github.io/p/powerbook-first-look/back_hud3c81f5955cbc7287092374e06454e48_1040876_480x0_resize_q75_box.jpg 480w, https://shiorimina.github.io/p/powerbook-first-look/back_hud3c81f5955cbc7287092374e06454e48_1040876_1024x0_resize_q75_box.jpg 1024w"
+loading="lazy"
+alt="back"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
+>
+那个时候的PCB还不是全黑(好像黑色会增加科技感？)&lt;br>
+散热风扇也不是现代笔记型计算机上常用的涡轮风扇,而使用了轴流风扇&lt;/p>
+&lt;p>这台PowerBook支援的作业系统版本是MacOS9.2到10.4,跨越了整个从ppc到x86的迁移过程&lt;/p>
+&lt;p>这次时间仓促，就先拿MacOS9.2.2试试水，等后面有时间折腾光盘了再回来玩。
+&lt;img src="https://shiorimina.github.io/p/powerbook-first-look/macos9.jpg"
+width="2436"
+height="1124"
+srcset="https://shiorimina.github.io/p/powerbook-first-look/macos9_hubb44d30ee2c6fa4b1299a7708a69291d_757274_480x0_resize_q75_box.jpg 480w, https://shiorimina.github.io/p/powerbook-first-look/macos9_hubb44d30ee2c6fa4b1299a7708a69291d_757274_1024x0_resize_q75_box.jpg 1024w"
+loading="lazy"
+alt="macos9"
+class="gallery-image"
+data-flex-grow="216"
+data-flex-basis="520px"
+>&lt;/p></description></item><item><title>第一次写blog。。。</title><link>https://shiorimina.github.io/p/thought-about-blog/</link><pubDate>Fri, 16 Dec 2022 07:17:13 +0000</pubDate><guid>https://shiorimina.github.io/p/thought-about-blog/</guid><description>&lt;img src="https://shiorimina.github.io/p/thought-about-blog/cover.jpg" alt="Featured image of post 第一次写blog。。。" />&lt;p>虽然之前很长很长一段时间里都在想着某天一定要好好打理一下自己的blog, 但是一直鸽🕊️到了现在(还不是因为懒)
+回想一下还是蛮恐怖的一件事情呀，我居然拖了那么那么久。。
+&lt;del>如果立刻就开始的话，到现在理论上会有两位数的文章了吧&lt;/del>&lt;/p>
+&lt;p>终于在昨天迈出了自己的第一步呢
+在hugo的一堆主题里面选了很久， 选中了&lt;a class="link" href="https://stack.jimmycai.com/" target="_blank" rel="noopener"
+>这个&lt;/a>看起来比较modern的主题。
+它提供了模版，可以直接使用这个模版创建自己的库， 而且它的自动部署还可以每天自动更新主题
+主题的开发者帮我我做了非常多的事情。。。&lt;/p>
+&lt;p>&lt;a class="link" href="https://stack.jimmycai.com/guide/getting-started" target="_blank" rel="noopener"
+>文档&lt;/a> 写的比较全
+按着README第一次用了codespaces, 虽然重建了几次才成功开起来一个能用的codespace
+但是真的进入到这个web的VSC里面，专注地写作的时候体验还算不错？&lt;/p>
+&lt;p>能够全身心地投入其中的状态本身就能够激起我的快乐。。。
+(也许是因为我比较难长时间专注于某件事情？)&lt;/p>
+&lt;p>在写的时候有些地方我会反复斟酌好久。。
+感觉这样子浪费掉了一些时间，
+而且会打断连续冒出来的文字。。
+会不会先把🧠里面冒出来的文字全部倒在屏幕上面再调整是更好的选择呢？&lt;/p>
+&lt;p>也许。。是强迫症使然？&lt;/p>
+&lt;p>但是全身贯注的感觉真的好棒啊~&lt;/p></description></item><item><title>Happy New Life</title><link>https://shiorimina.github.io/p/happy-new-life/</link><pubDate>Thu, 15 Dec 2022 09:17:13 +0000</pubDate><guid>https://shiorimina.github.io/p/happy-new-life/</guid><description>&lt;img src="https://shiorimina.github.io/p/happy-new-life/cover.png" alt="Featured image of post Happy New Life" />&lt;p>你好， 这里是ShioriMina的小窝。&lt;br>
+初次发言， 请多关照～&lt;/p>
+&lt;p>emmmm&amp;hellip; 第一次在nvim里面用键盘写✍🏻️diary有点害羞呢&lt;/p>
+&lt;p>但是希望这开了一个好头吧。。&lt;/p>
+&lt;p>想要马上就开始创作的说。。&lt;/p>
+&lt;p>后面会有许许多多不同方向的page被贴上来吧&lt;/p>
+&lt;p>总之，&lt;strong>Happy New Life&lt;/strong>!&lt;/p></description></item></channel></rss>
